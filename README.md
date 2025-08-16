@@ -1,57 +1,54 @@
-<!-- PROFILE HEADER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F80ED,100:56CCF2&height=200&section=header&text=TIRTHA%20NATH&fontSize=60&fontAlign=50&fontColor=ffffff&animation=twinkling"/>
-</p>
+# Hi there, I'm Tirtha Nath 👋  
+
+🚀 **Computer Science Engineering Student | Software Developer | ML & VLSI Enthusiast**  
+
+![Profile Views](https://komarev.com/ghpvc/?username=TIRTHANATH20&color=blueviolet&style=for-the-badge)  
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TIRTHANATH20)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tirtha-nath)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tirthanath2006@gmail.com)  
 
 ---
 
-# 💫 About Me:
-🔥 A passionate **Computer Science Engineer** who loves solving problems, building systems, and pushing boundaries.  
-🎯 Currently diving deep into **Software Development, VLSI, and Machine Learning**.  
-🌌 Believer in *“Code. Create. Contribute.”*  
+## 🔥 About Me
+- 🎓 CSE student at **SRM University**  
+- 💻 Skilled in **Python, Java, C, C++**, and **MySQL**  
+- 🧠 Exploring **Machine Learning**, **VLSI**, and **Web Development**  
+- ⚡ Passionate about building scalable and efficient systems  
 
 ---
 
-# 🚀 Tech Universe  
-💻 **Languages**: Python | Java | C | C++ | SQL  
-🛠 **Frameworks/Tools**: Tkinter | Flask | OpenLane | TailwindCSS | Figma  
-🗄 **Databases**: MySQL  
-🔬 **Domains**: VLSI | Web Dev | ML | UI/UX  
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![VLSI](https://img.shields.io/badge/VLSI-FF6F00?style=for-the-badge&logo=semanticscholar&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-# 🔥 Featured Projects  
-- 🏦 **Bank Management System** – Secure, fast, and scalable in Java  
-- 🖼 **AI Image Colorization** – Bringing grayscale images to life with ML  
-- 🚑 **Smart Ambulance Routing** – Flask + LocationIQ + Leaflet.js for real-time routing  
-- 🧾 **Supermarket Billing System** – Full-stack Tkinter + MySQL + PDF bills  
-- ⚡ **SPM in OpenLane** – Physical Design implementation using OpenROAD  
+## 📊 GitHub Stats
+![Tirtha's GitHub stats](https://github-readme-stats.vercel.app/api?username=TIRTHANATH20&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TIRTHANATH20&layout=compact&theme=radical)
 
 ---
 
-# 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TIRTHANATH20&show_icons=true&theme=radical" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TIRTHANATH20&theme=radical" height="160px"/>
-</p>  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TIRTHANATH20&layout=compact&theme=radical" height="160px"/>
-</p>  
+## 🚀 Projects
+- 🏦 Bank Management System  
+- ⚙️ CPU Scheduling Simulator  
+- 🎨 Image Colorization with Deep Learning  
+- 🚑 Smart Ambulance Routing System  
+- 🏪 Supermarket Billing System  
 
 ---
 
-# 🌐 Connect With Me  
-<p align="center">
-  <a href="mailto:tirthanath2006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/TIRTHANATH20"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/tirthanath"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+## 🤝 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/tirtha-nath)  
+- 📧 [Email](mailto:tirthanath2006@gmail.com)  
 
 ---
 
-<!-- FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:56CCF2,100:2F80ED&height=120&section=footer"/>
-</p>
+⭐️ From [TIRTHANATH20](https://github.com/TIRTHANATH20)
 
