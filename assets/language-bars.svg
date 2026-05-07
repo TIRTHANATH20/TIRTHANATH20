@@ -1,0 +1,55 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#08111F"/>
+      <stop offset="1" stop-color="#0B1220"/>
+    </linearGradient>
+    <linearGradient id="bar1" x1="0" y1="0" x2="0" y2="1" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22C55E"/>
+      <stop offset="1" stop-color="#16A34A"/>
+    </linearGradient>
+    <linearGradient id="bar2" x1="0" y1="0" x2="0" y2="1" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#0284C7"/>
+    </linearGradient>
+    <linearGradient id="bar3" x1="0" y1="0" x2="0" y2="1" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#7C3AED"/>
+    </linearGradient>
+    <linearGradient id="bar4" x1="0" y1="0" x2="0" y2="1" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F97316"/>
+      <stop offset="1" stop-color="#EA580C"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="260" rx="30" fill="url(#bg)"/>
+  <text x="96" y="64" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="32" font-weight="800">Language &amp; Tooling Focus</text>
+  <text x="96" y="96" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="500">A simple local graphic that always renders inside GitHub README markdown</text>
+
+  <g transform="translate(96 120)">
+    <text x="0" y="18" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">Python</text>
+    <rect x="132" y="0" width="900" height="18" rx="9" fill="#111827"/>
+    <rect x="132" y="0" width="540" height="18" rx="9" fill="url(#bar1)"/>
+    <text x="1060" y="15" text-anchor="end" fill="#22C55E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">Primary backend work</text>
+  </g>
+
+  <g transform="translate(96 154)">
+    <text x="0" y="18" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">JavaScript / React</text>
+    <rect x="132" y="0" width="900" height="18" rx="9" fill="#111827"/>
+    <rect x="132" y="0" width="430" height="18" rx="9" fill="url(#bar2)"/>
+    <text x="1060" y="15" text-anchor="end" fill="#38BDF8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">Frontend and UI work</text>
+  </g>
+
+  <g transform="translate(96 188)">
+    <text x="0" y="18" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">SQL / Databases</text>
+    <rect x="132" y="0" width="900" height="18" rx="9" fill="#111827"/>
+    <rect x="132" y="0" width="300" height="18" rx="9" fill="url(#bar3)"/>
+    <text x="1060" y="15" text-anchor="end" fill="#C084FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">Schema and migrations</text>
+  </g>
+
+  <g transform="translate(96 222)">
+    <text x="0" y="18" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">DevOps / Infra</text>
+    <rect x="132" y="0" width="900" height="18" rx="9" fill="#111827"/>
+    <rect x="132" y="0" width="250" height="18" rx="9" fill="url(#bar4)"/>
+    <text x="1060" y="15" text-anchor="end" fill="#F97316" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">Deployment and automation</text>
+  </g>
+</svg>

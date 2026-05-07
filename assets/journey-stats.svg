@@ -1,0 +1,50 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050816"/>
+      <stop offset="1" stop-color="#0F172A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="120" y1="80" x2="1080" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22C55E"/>
+      <stop offset="0.5" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="0" y2="1" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111827" stop-opacity="0.96"/>
+      <stop offset="1" stop-color="#0B1120" stop-opacity="0.96"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="420" rx="36" fill="url(#bg)"/>
+  <circle cx="1020" cy="84" r="122" fill="#38BDF8" fill-opacity="0.08"/>
+  <circle cx="176" cy="308" r="136" fill="#8B5CF6" fill-opacity="0.08"/>
+  <path d="M96 96H1104" stroke="#334155" stroke-width="2"/>
+  <text x="96" y="70" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="38" font-weight="800">My GitHub Journey</text>
+  <text x="96" y="108" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="500">A snapshot of current profile activity and contribution shape</text>
+
+  <rect x="96" y="144" width="320" height="188" rx="26" fill="url(#panel)" stroke="#334155"/>
+  <text x="128" y="186" fill="#60A5FA" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">Total Contributions</text>
+  <text x="128" y="244" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="62" font-weight="800">116</text>
+  <text x="128" y="284" fill="#22C55E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">Sep 1, 2024 - Present</text>
+
+  <rect x="440" y="144" width="320" height="188" rx="26" fill="url(#panel)" stroke="#334155"/>
+  <circle cx="600" cy="218" r="68" stroke="url(#accent)" stroke-width="10"/>
+  <text x="600" y="228" text-anchor="middle" fill="#C084FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="54" font-weight="800">0</text>
+  <text x="600" y="278" text-anchor="middle" fill="#22C55E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">Current Streak</text>
+  <text x="600" y="308" text-anchor="middle" fill="#38BDF8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">May 7</text>
+  <path d="M600 144V120" stroke="#F97316" stroke-width="10" stroke-linecap="round"/>
+  <path d="M592 118C594 106 602 98 610 92C618 98 626 106 628 118C628 132 618 142 610 146C602 142 592 132 592 118Z" fill="#F97316"/>
+
+  <rect x="784" y="144" width="320" height="188" rx="26" fill="url(#panel)" stroke="#334155"/>
+  <text x="816" y="186" fill="#60A5FA" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">Longest Streak</text>
+  <text x="816" y="244" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="62" font-weight="800">3</text>
+  <text x="816" y="284" fill="#22C55E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">Apr 12 - Apr 14</text>
+
+  <rect x="96" y="360" width="1008" height="14" rx="7" fill="#0F172A" stroke="#334155"/>
+  <rect x="96" y="360" width="240" height="14" rx="7" fill="#22C55E"/>
+  <rect x="342" y="360" width="116" height="14" rx="7" fill="#34D399"/>
+  <rect x="466" y="360" width="86" height="14" rx="7" fill="#38BDF8"/>
+  <rect x="560" y="360" width="148" height="14" rx="7" fill="#8B5CF6"/>
+  <rect x="716" y="360" width="78" height="14" rx="7" fill="#22C55E"/>
+  <rect x="802" y="360" width="132" height="14" rx="7" fill="#0EA5E9"/>
+  <rect x="942" y="360" width="162" height="14" rx="7" fill="#4ADE80"/>
+</svg>

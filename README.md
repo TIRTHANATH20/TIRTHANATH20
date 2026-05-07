@@ -68,12 +68,11 @@ Hardware:   OpenLane  OpenROAD  Verilog  GDSII
 ## 📊 My GitHub Journey
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TIRTHANATH20&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=22C55E&text_color=E5E7EB" height="165px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TIRTHANATH20&theme=tokyonight&hide_border=true&background=00000000&ring=8B5CF6&fire=F97316&currStreakLabel=22C55E&sideNums=E5E7EB" height="165px" />
+  <img src="assets/journey-stats.svg" alt="GitHub journey stats" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TIRTHANATH20&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=8B5CF6&text_color=E5E7EB" height="155px" />
+  <img src="assets/language-bars.svg" alt="Language and tooling focus" width="100%" />
 </p>
 
 ---
