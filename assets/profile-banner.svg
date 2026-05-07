@@ -1,40 +1,47 @@
 <svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#081120"/>
-      <stop offset="1" stop-color="#151A3A"/>
+      <stop stop-color="#050816"/>
+      <stop offset="0.55" stop-color="#111827"/>
+      <stop offset="1" stop-color="#0F172A"/>
     </linearGradient>
-    <linearGradient id="accent" x1="120" y1="70" x2="1080" y2="250" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#7C3AED"/>
-      <stop offset="0.5" stop-color="#38BDF8"/>
+    <linearGradient id="accent" x1="84" y1="46" x2="1116" y2="266" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B5CF6"/>
+      <stop offset="0.52" stop-color="#38BDF8"/>
       <stop offset="1" stop-color="#22C55E"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#38BDF8" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
     </linearGradient>
   </defs>
   <rect width="1200" height="320" rx="36" fill="url(#bg)"/>
-  <circle cx="1060" cy="68" r="86" fill="#38BDF8" fill-opacity="0.12"/>
-  <circle cx="168" cy="252" r="112" fill="#7C3AED" fill-opacity="0.12"/>
-  <path d="M86 230C190 152 314 124 448 126C592 128 700 172 804 202C906 232 998 232 1118 186" stroke="url(#accent)" stroke-width="12" stroke-linecap="round"/>
-  <path d="M86 244C198 170 322 142 452 144C592 146 706 188 812 218C912 246 1004 246 1118 202" stroke="white" stroke-opacity="0.10" stroke-width="2" stroke-dasharray="8 10"/>
-  <rect x="82" y="74" width="430" height="172" rx="28" fill="#0B1220" fill-opacity="0.72" stroke="#334155"/>
-  <circle cx="156" cy="160" r="40" fill="#7C3AED" fill-opacity="0.18"/>
-  <path d="M136 160L150 174L177 146" stroke="#E2E8F0" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
-  <text x="224" y="145" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="38" font-weight="700">TIRTHA NATH</text>
-  <text x="224" y="184" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">Computer Science Engineer • Builder • Contributor</text>
-  <text x="224" y="214" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14">Software • VLSI • Machine Learning</text>
-  <rect x="564" y="82" width="552" height="156" rx="28" fill="#0B1220" fill-opacity="0.52" stroke="#334155"/>
-  <g transform="translate(604 122)">
-    <rect width="120" height="96" rx="20" fill="#111827" stroke="#334155"/>
-    <text x="60" y="46" text-anchor="middle" fill="#38BDF8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">BUILD</text>
+  <circle cx="1036" cy="74" r="102" fill="#38BDF8" fill-opacity="0.10"/>
+  <circle cx="194" cy="248" r="122" fill="#8B5CF6" fill-opacity="0.10"/>
+  <circle cx="610" cy="160" r="180" fill="url(#glow)"/>
+  <path d="M72 228C188 154 304 122 430 126C552 130 650 182 752 210C856 238 958 236 1128 188" stroke="url(#accent)" stroke-width="14" stroke-linecap="round"/>
+  <path d="M72 246C192 170 308 140 436 144C560 148 658 196 760 224C864 250 966 248 1128 202" stroke="white" stroke-opacity="0.08" stroke-width="2" stroke-dasharray="8 10"/>
+  <rect x="84" y="60" width="458" height="200" rx="30" fill="#060B17" fill-opacity="0.82" stroke="#334155"/>
+  <circle cx="162" cy="160" r="44" fill="#8B5CF6" fill-opacity="0.20"/>
+  <path d="M140 160L154 174L182 146" stroke="#F8FAFC" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="226" y="140" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="40" font-weight="800">TIRTHA NATH</text>
+  <text x="226" y="182" fill="#E2E8F0" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="19" font-weight="500">Computer Science Engineer</text>
+  <text x="226" y="212" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14">Software • VLSI • Machine Learning</text>
+
+  <rect x="584" y="74" width="544" height="172" rx="30" fill="#060B17" fill-opacity="0.55" stroke="#334155"/>
+  <g transform="translate(632 116)">
+    <rect width="120" height="98" rx="22" fill="#111827" stroke="#334155"/>
+    <text x="60" y="44" text-anchor="middle" fill="#38BDF8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="800">BUILD</text>
     <text x="60" y="70" text-anchor="middle" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">clean systems</text>
   </g>
-  <g transform="translate(756 122)">
-    <rect width="120" height="96" rx="20" fill="#111827" stroke="#334155"/>
-    <text x="60" y="46" text-anchor="middle" fill="#7C3AED" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">SHARE</text>
+  <g transform="translate(782 116)">
+    <rect width="120" height="98" rx="22" fill="#111827" stroke="#334155"/>
+    <text x="60" y="44" text-anchor="middle" fill="#8B5CF6" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="800">SHARE</text>
     <text x="60" y="70" text-anchor="middle" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">useful work</text>
   </g>
-  <g transform="translate(908 122)">
-    <rect width="120" height="96" rx="20" fill="#111827" stroke="#334155"/>
-    <text x="60" y="46" text-anchor="middle" fill="#22C55E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">GROW</text>
+  <g transform="translate(932 116)">
+    <rect width="120" height="98" rx="22" fill="#111827" stroke="#334155"/>
+    <text x="60" y="44" text-anchor="middle" fill="#22C55E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="800">GROW</text>
     <text x="60" y="70" text-anchor="middle" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">daily progress</text>
   </g>
 </svg>
