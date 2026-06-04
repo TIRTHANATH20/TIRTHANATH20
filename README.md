@@ -4,14 +4,14 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 ```
 tirthanath@github:~$ whoami
 
 Name:       Tirtha Nath (TIRTHANATH20)
 Role:       Full-Stack Engineer | ML Enthusiast | Hardware Designer
-Location:   India 🇮🇳
+Location:   India 
 Education:  Computer Science Engineering
 Bio:        Building practical systems, shipping clean code, writing solid docs
 
@@ -30,7 +30,7 @@ Fun Fact:     I over-document everything :)
 
 ## 💻 Tech Stack
 
-| 🎯 **Backend & APIs** | 🎨 **Frontend** |
+|  **Backend & APIs** |  **Frontend** |
 |---|---|
 | **Languages:** Python, Java, TypeScript | **Framework:** React, Next.js |
 | **Frameworks:** FastAPI, Flask, Node.js | **Styling:** Tailwind CSS, CSS3 |
@@ -46,7 +46,7 @@ Fun Fact:     I over-document everything :)
 
 ---
 
-## 🏆 Featured Projects
+##  Featured Projects
 
 ### [Agent Marketplace](https://github.com/TIRTHANATH20/Agent-Marketplace)
 Full-stack SaaS platform for discovering and purchasing AI agents. Features JWT auth, one-click purchases, agent messaging, and comprehensive logging.
@@ -69,7 +69,7 @@ End-to-end physical design flow from Verilog RTL to GDSII using industry tools.
 
 ---
 
-## 🎯 My Philosophy
+##  My Philosophy
 
 ✅ **Quality Over Quantity** — Every commit matters, every line counts
 
@@ -81,7 +81,7 @@ End-to-end physical design flow from Verilog RTL to GDSII using industry tools.
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
